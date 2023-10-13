@@ -34,5 +34,5 @@
 - posting_date: The date the vehicle was listed for resale.
 
 ## Machine Learning Algorithms
-- The heart of this project lies in the application of machine learning algorithms to accurately predict used car prices. By training and fine-tuning these algorithms on the extensive dataset, we aim to provide a reliable and data-driven solution to the challenging problem of used car price estimation. Our approach leverages various machine learning techniques, including regression, ensemble models, and feature engineering, to ensure the most accurate predictions.
+- The heart of this project lies in the application of machine learning algorithms to accurately predict used car prices. By training and fine-tuning these algorithms on the extensive dataset, we aim to provide a reliable and data-driven solution to the challenging problem of used car price estimation. This approach leverages various machine learning techniques, including regression, ensemble models, and feature engineering, to ensure the most accurate predictions.
 
